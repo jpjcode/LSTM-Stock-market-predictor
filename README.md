@@ -1,0 +1,1 @@
+Note: I noticed some flaws with the machine learning model. First thing is that the way I was benchmarking random guessing might not be an accurate depiction of it. The model seems to be training as it expected but further understanding on fine tuning and testing is needed.
